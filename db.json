@@ -7,8 +7,15 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 6000,
+      "services": [
+        {
+          "name": "teste 04",
+          "cost": "6000",
+          "description": "teste de descrição",
+          "id": "63c010b5-0938-42b3-8512-159f75436c92"
+        }
+      ],
       "id": 1
     },
     {
@@ -46,13 +53,32 @@
     },
     {
       "name": "Projeto atualizado",
-      "budget": "3500",
+      "budget": "3300",
       "category": {
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 900,
+      "services": [
+        {
+          "name": "Meu serviço 01",
+          "cost": "200",
+          "description": "Aqui eu descrevo o serviço",
+          "id": "e491b1d9-fc66-4be0-9204-fbcabb91b1fa"
+        },
+        {
+          "name": "Meu serviço 02",
+          "cost": "300",
+          "description": "Aqui eu descrevo o serviço",
+          "id": "641d8d84-b443-4441-8a11-d4eaa4428055"
+        },
+        {
+          "name": "123",
+          "cost": "100",
+          "description": "123",
+          "id": "f89470e5-f6e7-48ea-91ee-b79071b66adf"
+        }
+      ],
       "id": 5
     }
   ],
